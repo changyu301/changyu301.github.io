@@ -7,5 +7,5 @@ I'm currently a second-year master student in Quantitative Finance at Rutgers Bu
 Check out my latest Resume [Here](https://drive.google.com/file/d/1wRpC4tis76OImN01Dfost3Jrjv3VHJYk/view), Updated on Jan 2021
 
 ## Education
-MS in Quantitative Finance, Rutgers Business School, 2021
+MS in Quantitative Finance, Rutgers Business School, 2021  
 BS in Mathematics and Applied Mathematics, 2019
