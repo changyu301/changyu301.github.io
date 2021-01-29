@@ -1,5 +1,5 @@
 # About me
-![](Chang_Yu.jpg)
+![](/photo/Chang_Yu.jpg)
 # Resume
 Check out my latest Resume [Here](https://drive.google.com/file/d/1wRpC4tis76OImN01Dfost3Jrjv3VHJYk/view)
 
