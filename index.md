@@ -1,38 +1,11 @@
 # About me
 ![](/photo/Chang_Yu.jpg)
-# Resume
-Check out my latest Resume [Here](https://drive.google.com/file/d/1wRpC4tis76OImN01Dfost3Jrjv3VHJYk/view)
+## Brief Intro
+I'm currently a second-year master student in Quantitative Finance at Rutgers Business School and will be graduating in May. I've applied for PhD in the field of Industrial Engineering and Operations Research for 2021 Fall. I am waiting for decisions from many schools and will update in late March or April.
 
-## Welcome to GitHub Pages
+## Resume
+Check out my latest Resume [Here](https://drive.google.com/file/d/1wRpC4tis76OImN01Dfost3Jrjv3VHJYk/view), Updated on Jan 2021
 
-You can use the [editor on GitHub](https://github.com/changyu301/changyu301.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-# Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/changyu301/changyu301.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Education
+MS in Quantitative Finance, Rutgers Business School, 2021 May
+BS in Mathematics and Applied Mathematics, 2019 June
