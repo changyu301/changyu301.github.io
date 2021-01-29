@@ -1,3 +1,8 @@
+# About me
+![Pic]()
+# Resume
+Check out my latest Resume [Here](https://drive.google.com/file/d/1wRpC4tis76OImN01Dfost3Jrjv3VHJYk/view)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/changyu301/changyu301.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
@@ -28,9 +33,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+# Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/changyu301/changyu301.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Resume
-Check out my latest Resume [Here](https://drive.google.com/file/d/1wRpC4tis76OImN01Dfost3Jrjv3VHJYk/view)
