@@ -1,2 +1,2 @@
-# changyu301.github.io
+# cyu301.github.io
 Homepage of Chang Yu
