@@ -8,6 +8,6 @@ I am a first-year Ph.D. student in the Operations Research program at Rutgers Bu
 Check out my latest Resume [Here](https://drive.google.com/file/d/1wRpC4tis76OImN01Dfost3Jrjv3VHJYk/view), Updated on Jan 2021
 
 ## Education
-PhD in Operations Research, Rutgers Business School, Incoming 
+PhD in Operations Research, Rutgers Business School, Incoming  
 MS in Quantitative Finance, Rutgers Business School, 2021  
 BS in Mathematics, Shanghai University, 2019
